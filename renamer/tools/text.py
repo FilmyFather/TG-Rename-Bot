@@ -3,7 +3,7 @@ from pyrogram.emoji import *
 class TEXT:
     DOWNLOAD_START = f"Downloading Starts soon {SLEEPING_FACE}"
     UPLOAD_START = f"Upload Starting Soon {SLEEPING_FACE}"
-    UPLOAD_SUCESS = f"Thanks for using [me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"
+    UPLOAD_SUCESS = f"Thanks for using [me](https://github.com/FilmyFather/TG-Rename-Bot)"
     BANNED_USER_TEXT = f"Hey bro, you are **banned** from using me {FACE_WITH_TEARS_OF_JOY}."
     NOT_LOGGED_TEXT = f"This bot was only for private use {LOCKED_WITH_KEY}. If you want to use this bot you need to send me correct password in the format `/login bot_password`"
     SAVED_CUSTOM_THUMBNAIL = f"Thumbnail Saved Permanently {NOTEBOOK_WITH_DECORATIVE_COVER}"
@@ -12,38 +12,38 @@ class TEXT:
     THUMBNAIL_CAPTION = f"{BACKHAND_INDEX_POINTING_UP_LIGHT_SKIN_TONE} Your Permanent thumbnail"
 
 
-    ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
+    ABOUT = """**𝐌𝐲 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 :**
 
-** My Name:** {bot_name}
+** 𝕸𝖞 𝕹𝖆𝖒𝖊:** [ꜰɪʟᴍʏꜰᴀᴛʜᴇʀ ʀᴇɴᴀᴍᴇʀ ᴘʀᴏ ʙᴏᴛ](https://t.me/FilmyFather_RenamerBot)
     
-** Language:** [Python 3](https://www.python.org/)
+** 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊:** [ᴘʏᴛʜᴏɴ 3](https://www.python.org/)
 
-** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
+** 𝕱𝖗𝖆𝖒𝖊𝖂𝖔𝖗𝖐:** [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
 
-** Developer:** {bot_owner}
+** 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗:** [ʏᴜᴠʀᴀᴊ](https://t.me/Yuvi_4502)
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** 𝕲𝖗𝖔𝖚𝖕:** [ʀᴇQᴜᴇꜱᴛɪɴɢʜᴜʙ](https://t.me/RequestingHuB)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** 𝕮𝖍𝖊𝖓𝖓𝖊𝖑:** [ꜰɪʟᴍʏꜰᴀᴛʜᴇʀ](https://t.me/FilmyFather_BotList)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** 𝕾𝖔𝖚𝖗𝖈𝖊 𝕮𝖔𝖉𝖊:** [ᴘʀᴇꜱꜱ ᴍᴇ](https://github.com/FilmyFather/TG-Rename-Bot)
 """
 
     HELP_USER = """**Follow Below Steps:**
    
-☞︎︎︎ Use /mode command to change upload mode.
-☞︎︎︎ Send a photo to set as permanent thumbnail.
-☞︎︎︎ Now send me the Telegram file you want to rename.
-☞︎︎︎ Send the new name when bot ask.
+☞︎︎︎ **Use /mode command to change upload mode.**
+☞︎︎︎ **Send a photo to set as permanent thumbnail.**
+☞︎︎︎ **Now send me the Telegram file you want to rename.**
+☞︎︎︎ **Send the new name when bot ask**.
 
 For source code check about
 """
 
     START_TEXT = """Hi {user_mention},
 
-I am a telegram renamer with permanent thumbnail.
+**I am a telegram renamer with permanent thumbnail.**
 
-𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
+**𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.**
 
 **Maintained By:** {bot_owner}
 """
@@ -59,4 +59,4 @@ __--Payment Methods:--__
  
 GooglePay / Paytm / PhonPay / paypal / Net Banking
  
-**For Donate:** message me @MaxxRiderz"""
+**For Donate:** message me @YUVI_4502"""
