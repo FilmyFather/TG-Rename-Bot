@@ -1,7 +1,7 @@
 # Renamer-Bot
 
 # OWNER OF THIS REPO:
-👉 [NS ANONYMOUS 🔥](https://telegram.dog/The_proGrammerr)
+👉 [ＹＵＶＲＡＪ 🔥](https://telegram.dog/Yuvi_4502)
 
 
 #A Telegram Media Rename Bot! Based on Python 3 🧘
@@ -9,31 +9,31 @@
 I think this repo gonna become one of the best renamer open source 🥰.
 
 Please Give a ⭐ if you like this repo and also try following me for more best open source codes<br><br>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/Ns-Bots/TG-RENAMER-BOT)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/FILMYFATHER/TG-RENAME-BOT)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/YUVI_4502)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/YUVI_4502)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/FilmyFather/TG-Rename-Bot#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT#bot-features-)
+[Bot Features 🔥](https://github.com/FilmyFather/TG-Rename-Bot#bot-features-)
 
-[Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT#required-vars-)
+[Required Vars 💥](https://github.com/FilmyFather/TG-Rename-Bot#required-vars-)
 
-[Optional Vars 💬](https://github.com/Ns-Bots/TG-RENAMER-BOT#optional-vars-)
+[Optional Vars 💬](https://github.com/FilmyFather/TG-Rename-Bot#optional-vars-)
 
-[Available Commands 🤖](https://github.com/Ns-Bots/TG-RENAMER-BOT#available-commands-)
+[Available Commands 🤖](https://github.com/FilmyFather/TG-Rename-Bot#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/Ns-Bots/TG-RENAMER-BOT#dev-)
+[Dev 🧑‍💻](https://github.com/FilmyFather/TG-Rename-Bot-BOT#dev-)
 
-[TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
+[TODO 🤧](https://github.com/FilmyFather/TG-Rename-Bot#todo-)
 
 [Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FilmyFather/TG-Rename-Bot)
 
 ## WARNING ⚠️
 Direct Deploy via button not working?? Suspension issue??
@@ -94,12 +94,12 @@ login - (when password is given) to login to bot
 
 ## Dev 🧑‍💻
 <p align="middle">
-<img src="https://telegra.ph/file/c35579b3aef1248e2a130.jpg" width="250" height="350"><br>
-<img src="https://badgen.net/badge/Name/Anonymous/FF33FF?icon=awesome&labelColor=0080FF"></a>
+<img src="https://telegra.ph/file/d8b2bb171aa565fb4b606.jpg" width="350" height="350"><br>
+<img src="https://badgen.net/badge/Name/Yuvraj/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/Ns_Anonymous"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
-<a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://telegram.dog/YUVI_4502"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://github.com/FilmyFather"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
+<a href="https://instagram.com/_xx_itz_yuvi_xx_"><img src="https://img.shields.io/badge/Instagram-Account-FF3333.svg?logo=instagram&logoColor=FF3333"></a>
 <p align="left">
 </p>
 
