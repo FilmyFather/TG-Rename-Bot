@@ -1,7 +1,7 @@
 {
-    "name": "TG Renamer Bot",
+    "name": "FilmyFather TG Renamer Bot",
     "description": "The Telegram file renamer bot based on Pyrogram.",
-    "logo": "https://telegra.ph/file/8324a0863fed98d4dfb6c.jpg",
+    "logo": "https://telegra.ph/file/d8b2bb171aa565fb4b606.jpg",
 
     "keywords": [
         "telegram",
@@ -10,10 +10,10 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/Ns-AnoNymouS/Renamer",
+    "repository": "https://github.com/FilmyFather/TG-Rename-Bot",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/yuvi_4502",
+    "success_url": "https://t.me/FilmyFather_renamerbot",
 
     "env": {
         "API_HASH": {
